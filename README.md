@@ -3,7 +3,7 @@
 This repository contains my openCV and Mediapipe based project, which 
 is to draw in live open camera frame.
 
-![Screenshot](https://url/to/img.png)
+![Screenshot](https://github.com/saketbyte/Screen-Painting-/blob/main/ScreenShot.jpg)
 
 
 
