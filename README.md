@@ -27,8 +27,13 @@ stretched hand untill trackers are visible on the palm.
 
 2. Use index finger raised for drawing mode.
 
-3. Use index and ring finger to raise the of ink or to select a
+![Drawing mode](https://github.com/saketbyte/Screen-Painting-/blob/main/Drawing%20mode.jpg)
+
+3. Use index and ring finger to raise the of ink tip or to select a
 new ink color or eraser.
+
+
+![Selection mode/ raising ink tip](https://github.com/saketbyte/Screen-Painting-/blob/main/Selection%20mode.jpg)
 
 * Make sure atleast 60% of your hand is visible in the screen.
 
